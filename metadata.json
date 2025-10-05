@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Ärzteverwaltung",
+  "description": "Eine fortschrittliche Webanwendung zur Verwaltung von Ärzteinformationen mit Funktionen zum Filtern, Suchen, Hinzufügen, Bearbeiten, Löschen und zum Import/Export von Excel-Daten. Alle Daten werden lokal gespeichert.",
+  "requestFramePermissions": []
+}
